@@ -35,7 +35,7 @@ input[type="text"], input[type="date"], input[type="submit"] {
 }
 
 input[type="submit"] {
-    background-color: #4CAF50;
+    background-color: #42b6f4;
     color: white;
     border: none;
     border-radius: 5px;
@@ -44,7 +44,7 @@ input[type="submit"] {
 }
 
 input[type="submit"]:hover {
-    background-color: #45a049;
+    background-color: #098db9;
 }
 
 #ticket-history {
@@ -56,7 +56,7 @@ input[type="submit"]:hover {
     display: none;
 }
 #view-history-btn{
-    background-color:rgb(24, 24, 92);
+    background-color:rgb(28, 245, 39);
     color: white;
     cursor: pointer;
     transition: background-color 0.3s;
